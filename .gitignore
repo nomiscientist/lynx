@@ -117,7 +117,7 @@ js_libraries/lynx-core/src/common/feature.ts
 **/.DS_Store
 
 # Editor specific files
-.vscode
 *.sublime-project
 *.sublime-workspace
 .idea
+config.bat
